@@ -1,0 +1,31 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+  display: inline;
+}
+h1{
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  margin-left: 20px;
+  margin-right: 20px;
+}
+p{
+  font-weight: 400;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.main{
+  padding: 1rem;
+  padding-bottom: 50px;
+  background-color: hsl(0, 0%, 100%);
+  margin: 10em auto;
+  width: 500px;
+  font-family: 'Outfit', sans-serif;
+  border-radius: 20px;
+}
+.qr{
+  width: 100%;
+  border-radius: 10px;
+}
